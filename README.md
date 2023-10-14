@@ -4,17 +4,22 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called Session ID - Session Title.  
+In this session you experience how SAP Cloud ALM can help you during your implementation project. 
+You will start with setting up the project, timelines and onboarding the team in SAP Cloud ALM. You will also model your process and scope the processes to be implemented as part of the project. Then you will be creating requirements as part of the fit-to-standard workshops. As a next step, a manual test case is created and tested before releasing the transports with the help of a feature in SAP Cloud ALM. 
+During this project journey guided by SAP Cloud ALM, you can track and trace the status of the project and its entities in the project dashboard and with the help of the Analytics apps. 
 
-## Overview
 
-This session introduces attendees to...
 
-## Requirements
+## System Access
 
-The requirements to follow the exercises in this repository are...
+Connect to SAP Guest network --> need to be updated!!!
 
 ## Exercises
+
+We will begin many of the exercises from the Fiori launchpad. When you are within any application, you can click on the SAP Logo to return to Fiori Launchpad 
+An integrated help assistant is also available in SAP Cloud ALM.  
+<img width="466" alt="image" src="https://github.com/SAP-samples/teched2023-DT165/assets/73659453/f2fd9be1-4726-4340-91bf-5ce32d99ac1d">
+Click on Question Mark (Open Help). Help topics open by default.
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
