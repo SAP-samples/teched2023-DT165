@@ -4,7 +4,11 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called Session ID - Session Title.  
+In this session you experience how SAP Cloud ALM can help you during your implementation project.
+You will start with setting up the project, timelines and onboarding the team in SAP Cloud ALM. You will also model your process and scope the processes to be implemented as part of the project. Then you will be creating requirements as part of the fit-to-standard workshops. As a next step, a manual test case is created and tested before releasing the transports with the help of a feature in SAP Cloud ALM.
+During this project journey guided by SAP Cloud ALM, you can track and trace the status of the project and its entities in the project dashboard and with the help of the Analytics apps.
+![image](https://github.com/SAP-samples/teched2023-DT165/assets/73659453/62b0f648-011f-4aa3-bd37-5cdd0bd0970c)
+
 
 ## Overview
 
