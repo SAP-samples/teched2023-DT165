@@ -1,4 +1,4 @@
-# Excercise 1: Create Scopes and Define Business Processes
+# Excercise 3: Create Scopes and Define Business Processes
 The purpose of this task is to create a Project Scope and selected the processes that are part of this implementation scope.
 A scope is a container for solution processes or variants that should be managed collectively. During scoping, you add solution processes to your scopes to define the project process scope.
 
