@@ -14,6 +14,7 @@ Click on Question Mark (Open Help). Help topics open by default.
 
 <img width="800" alt="image" src="https://github.com/SAP-samples/teched2023-DT165/assets/73659453/96a2c826-d8f1-4944-92be-a1b40f61934f">
 
+
 1. Click Create button.
 2. Enter the Project title: TECHED2023_DT165_XX with (XX = your user ID)
 3. Select "SAP S/4HANA Cloud, private edition - implementation" as roadmap in the field SAP Activate Roadmap selection.
@@ -24,9 +25,21 @@ Click on Question Mark (Open Help). Help topics open by default.
 
 ## Exercise 1.2 Define Timeboxes (Project Phases & Sprints)
 
+In this step, you define the different Timelines of Phases, Sprints or Milestones.
+
+<img width="800" alt="image" src="https://github.com/SAP-samples/teched2023-DT165/assets/73659453/92fa9c7f-aad2-4c2e-bfb4-def6818e0bdf">
+
+1. Click on the Timebox Tab
+2. Click on Edit
+3. Enter the planned dates for your phases.
+4. Start creating some sprints for your Project (e.g. bi-weekly sprints in REALIZE phase).
+5. Make sure you save the Project.
+
+<img width="800" alt="image" src="https://github.com/SAP-samples/teched2023-DT165/assets/73659453/4074261e-a225-46cc-a564-2f9e525e3103">
+
 ## Summary
 
-You've now ...
+You have now setup your project.
 
 Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
 
