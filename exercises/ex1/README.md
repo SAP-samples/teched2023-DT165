@@ -9,7 +9,7 @@ After completing these steps you will have created...
 1. Click here.
 <br>![](/exercises/ex1/images/01_01_0010.png)
 
-2.	Insert this line of code.
+2.	Insert this line of code. test
 ```abap
 response->set_text( |Hello World! | ). 
 ```
