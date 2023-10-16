@@ -1,6 +1,6 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2023-DT165)](https://api.reuse.software/info/github.com/SAP-samples/teched2023-DT165)
 
-# Session ID - Session Title
+# DT165 - Your Ultimate End-to-End Implementation Experience with SAP Cloud ALM
 
 ## Description
 
@@ -14,38 +14,21 @@ You will start with setting up the project, timelines and onboarding the team in
 During this project journey guided by SAP Cloud ALM, you can track and trace the status of the project and its entities in the project dashboard and with the help of the Analytics apps.
 <img width="1080" alt="image" src="https://github.com/SAP-samples/teched2023-DT165/assets/73659453/703eeb56-c109-429a-9d90-4921d6985904">
 
-
-## Requirements
-
-The requirements to follow the exercises in this repository is an internet connection to access SAP Cloud ALM.
-
 ## Access Details
 Access SAP Cloud ALM demo tenant by using the below link and credentials:  
-
 https://dt165-rpz129xc.eu10.alm.cloud.sap
-
 with your user DT165-XXX@education.cloud.sap (example DT165-001@education.cloud.sap)
 
 ## Exercises
+<img width="900" alt="image" src="https://github.com/SAP-samples/teched2023-DT165/assets/73659453/35238010-fa1c-4d7d-a28a-07d86cfcc032">
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
-
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-
-  
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+- [Exercise 1 - Create Project & Maintain Project Timelines](exercises/ex1/)
+- [Exercise 2 - Manage and Execute Tasks](exercises/ex2/)
+- [Exercise 3 - Create Scopes and Select Business Processes](exercises/ex3/)
+- [Exercise 4 - Create Feature & Test Case](exercises/ex4/)
+- [Exercise 5 - Execute Test Case & Manage Defects](exercises/ex5/)
+- [Exercise 6 - Manage Documentation](exercises/ex6/)
+- [Exercise 7 - Use tracking and traceability Dashboards](exercises/ex7/)
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
