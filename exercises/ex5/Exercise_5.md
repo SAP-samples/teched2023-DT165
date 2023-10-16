@@ -52,7 +52,31 @@ The processor is notified about their defect assignment, then analyses and corre
 Once the Defect has been corrected, the processor changes the Defect status to Retest required and assigns it to the original reporter. 
 
 1. Once the Defect is corrected, change the status to **retest required** 
-2. **Save and Close** 
+2. **Save and Close**
+
+(Screenshot page 35)
+
+
+1. Once the retest is successful, the Defect status is set to close.
+2. Save
+
+(Sreenshot page 35)
+
+1. Open Test execution again.
+
+![image](https://github.com/SAP-samples/teched2023-DT165/assets/148057376/b1ed771c-2e0c-47a6-b549-4d30708c7d79)
+
+
+1. Change the status of the step to Pass. 
+2. Once all the steps are tested, **Save and Finish the test run.** 
+
+## Summary 
+
+You’ve learnt how to create manual Test cases, Execute them, Create and Manage Defects. 
+
+
+
+ 
 
 
 
