@@ -1,26 +1,5 @@
-# Level 1 Heading
+# Access Details
 
-In this exercise, you will...
-
-## Level 2 Heading
-
-After completing these steps you will have....
-
-1.	Click here.
-<br>![](/exercises/ex0/images/00_00_0010.png)
-
-2.	Insert this code.
-``` abap
- DATA(params) = request->get_form_fields(  ).
- READ TABLE params REFERENCE INTO DATA(param) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-```
-
-## Summary
-
-Now that you have ... 
-Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
+Access SAP Cloud ALM demo tenant by using the below link and credentials:  
+https://dt165-rpz129xc.eu10.alm.cloud.sap
+with your user DT165-XXX@education.cloud.sap (example DT165-001@education.cloud.sap)
