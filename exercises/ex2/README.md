@@ -51,11 +51,16 @@ In SAP Cloud ALM you can mass maintain attributes in the list view.
 
 5. Click on “Gantt Chart” button.
 
+<img width="900" alt="image" src="https://github.com/SAP-samples/teched2023-DT165/assets/73659453/1db1348a-c548-414e-a681-ff66b38548c1">
 
+## Exercise 2.4 Card View
+1. Go to **Cards View**.
+2. Select a task and drag & drop the tasks in the **In Progress** column.
 
+<img width="900" alt="image" src="https://github.com/SAP-samples/teched2023-DT165/assets/73659453/2d7f1610-e2fc-413c-a2f9-de659fb9292d">
    
 ## Summary
 
-You've now ...
+You've now learned different ways to view and maintain tasks in SAP Cloud ALM.
 
 Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
