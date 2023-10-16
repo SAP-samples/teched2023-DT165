@@ -1,6 +1,6 @@
 # Exercise 4: Create Feature & Test Case 
 In this exercise, we will create a feature which is used to the deploy Transport Requests through the landscape.  
-## 4.1 Create Feature
+## 5.1 Create Feature
 ![image](https://github.com/SAP-samples/teched2023-DT165/assets/148057376/a94ac958-0ac7-4de1-a9b0-b852ee3cea16)
 
 In the Requirement you created. Create a feature by clicking on Create -> Feature
@@ -15,7 +15,7 @@ In the Requirement you created. Create a feature by clicking on Create -> Featur
 
 **This functionality is show in detail in another Hands-on session. For time purposes the deployment will not be part of this hands-on session.**
 
-## 4.2 Create Test Case 
+## 5.2 Create Test Case 
 
 1. Click on Test **Preparation** 
 2. Ensure that the right Project and Scope is selected 
@@ -37,7 +37,7 @@ Provide Solution Action Instructions and mark Test Case as "Prepared."
 
 ![image](https://github.com/SAP-samples/teched2023-DT165/assets/148057376/638af1cc-c85b-4424-8577-e47019c8ec8b)
 
-## 4.3 Assign Test Case to Requirement 
+## 5.3 Assign Test Case to Requirement 
 
 1. Go to your requirement you created. 
 2. Click on **edit** 
