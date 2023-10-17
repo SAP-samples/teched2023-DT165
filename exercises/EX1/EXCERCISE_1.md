@@ -41,5 +41,5 @@ In this step, you define the different Timelines of Phases, Sprints or Milestone
 
 You have now setup your project.
 
-Continue to - 
+Continue to [Exercise 2](../EX2/EXCERCISE_2.md)
 
