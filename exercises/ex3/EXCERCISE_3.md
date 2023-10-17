@@ -4,11 +4,11 @@ A scope is a container for solution processes or variants that should be managed
 
 ## Excercise 3.1 Create Project Scope
 
-1. Navigate back to the Project Overview page.
+1. Navigate back to the **Project Overview** page.
    
 <img width="900" alt="image" src="https://github.com/SAP-samples/teched2023-DT165/assets/73659453/ba91f263-d651-4e9a-b854-2776dad90043">
 
-1. Under Upcoming Open the task "Create Scopes and Define Business Process Scope" by clicking on the link.
+1. Under Upcoming Open the task **Create Scopes and Define Business Process Scope** by clicking on the link.
 
 <img width="900" alt="image" src="https://github.com/SAP-samples/teched2023-DT165/assets/73659453/e1ec9011-65c2-4bfe-b5fb-ab793d43730b">
 
