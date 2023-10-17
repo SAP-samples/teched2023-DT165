@@ -49,6 +49,7 @@ Provide Solution Action Instructions and mark Test Case as "Prepared."
 
 ![image](https://github.com/SAP-samples/teched2023-DT165/assets/148057376/ec2a660f-0b4a-49fe-948b-bb6876dad98d)
 
+Continue to [Exercise 6](../EX6/EXCERCISE_6.md)
 
 
  
