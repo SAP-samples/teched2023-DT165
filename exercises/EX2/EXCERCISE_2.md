@@ -63,4 +63,5 @@ In SAP Cloud ALM you can mass maintain attributes in the list view.
 
 You've now learned different ways to view and maintain tasks in SAP Cloud ALM.
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to [Exercise 3](../EX3/EXCERCISE_3.md)
+
