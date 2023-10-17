@@ -1,6 +1,6 @@
-# Exercise 5:  Execute Test Case & Manage Defect
+# Exercise 6:  Execute Test Case & Manage Defect
 
-## Exercise 5.1 Execute Test Cases 
+## Exercise 6.1 Execute Test Cases 
 
 ![image](https://github.com/SAP-samples/teched2023-DT165/assets/148057376/cbd9e384-926b-4921-920a-de52740928db)
 
@@ -8,8 +8,8 @@
 2. Find your Test Case and click "Execute" to start Test Run.
 
 
+<img width="1000" alt="image" src="https://github.com/SAP-samples/teched2023-DT165/assets/73659453/40a11abf-955f-4334-b972-32ea91428b19">
 
-![image](https://github.com/SAP-samples/teched2023-DT165/assets/148057376/401ab750-3152-4d34-8e9b-fe66ffd49cd7)
 
 1. Set Solution Action "1.1" to "Pass." 
 2. Set Solution Action ‘’3.1" to "Fail–Retest Required." 
@@ -17,8 +17,13 @@
 4. Enter comments 
 5. Click on create Defect.
 
+<img width="916" alt="image" src="https://github.com/SAP-samples/teched2023-DT165/assets/73659453/49343c4e-9ddf-4b5a-bb5a-8558eb457675">
 
-## Exercise 5.2 Manage Defects 
+1. Provide a name for the Defect
+2. Enter description
+3. Save Defect
+
+## Exercise 6.2 Manage Defects 
 
 In the Defects app, you can create and manage defects for deficiencies that were discovered during testing or in the application. 
 
@@ -51,21 +56,18 @@ The defect is picked up and assigned to a team, role, or processor. In the Addit
 The processor is notified about their defect assignment, then analyses and corrects the Defect.               
 Once the Defect has been corrected, the processor changes the Defect status to Retest required and assigns it to the original reporter. 
 
+<img width="1000" alt="image" src="https://github.com/SAP-samples/teched2023-DT165/assets/73659453/214e5bcb-5abf-49f3-a1b9-f689e57f31b2">
+
 1. Once the Defect is corrected, change the status to **retest required** 
 2. **Save and Close**
 
-(Screenshot page 35)
+<img width="1000" alt="image" src="https://github.com/SAP-samples/teched2023-DT165/assets/73659453/de17beb7-5020-4d11-a286-d9617a861cc0">
 
-
-1. Once the retest is successful, the Defect status is set to close.
-2. Save
-
-(Sreenshot page 35)
-
-1. Open Test execution again.
+1. Once the retest is successful, the Defect status is set to **close**.
+2. Hit **Save**.
+3. Open Test execution again.
 
 ![image](https://github.com/SAP-samples/teched2023-DT165/assets/148057376/b1ed771c-2e0c-47a6-b549-4d30708c7d79)
-
 
 1. Change the status of the step to Pass. 
 2. Once all the steps are tested, **Save and Finish the test run.** 
