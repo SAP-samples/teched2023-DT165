@@ -102,7 +102,7 @@ It is possible to view the newly assigned requirements from the notification lis
 You've now defined the Project Scope. You selected the Solution Processes in scope, documented a Requirement and created user stories to realize the requirements. 
 
 
-
+Continue to [Exercise 5](../EX5/EXCERCISE_5.md)
 
 
 
