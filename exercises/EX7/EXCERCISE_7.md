@@ -49,6 +49,7 @@ The ‘Document’ element can be related to Solution Processes. This can be mai
 
 You have learned how to use document management capability in SAP Cloud ALM. 
 
+Continue to [Exercise 8](../EX8/EXCERCISE_8.md)
 
 
 
