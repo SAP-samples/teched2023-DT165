@@ -74,8 +74,7 @@ Let us consider two use cases:
 
 **Use case 1: Which requirements are ready for test execution?** 
 
-
-![image](https://github.com/SAP-samples/teched2023-DT165/assets/148057376/a76cdd58-df56-451e-a5c5-930426df3ccb)
+<img width="1000" alt="image" src="https://github.com/SAP-samples/teched2023-DT165/assets/73659453/0162d368-6060-4057-bed2-5663b2d5f1fe">
 
 1. Set filters to the below selection criteria:
  - Requirement Status is **In Realization**
@@ -87,7 +86,7 @@ Let us consider two use cases:
 
 **Use Case 2: Which Requirements are ready for deployment to production?** 
 
-![image](https://github.com/SAP-samples/teched2023-DT165/assets/148057376/c610a694-9793-479d-9530-4e340b2a0c43)
+<img width="1000" alt="image" src="https://github.com/SAP-samples/teched2023-DT165/assets/73659453/943fcf77-106d-4fc5-9616-21ba84d90798">
 
 NOTE: You need to have created additional requirements meeting these selection criteria. Please follow the relevant exercises to do this. 
 
