@@ -20,15 +20,18 @@ https://dt165-rpz129xc.eu10.alm.cloud.sap
 with your user DT165-XXX@education.cloud.sap (example DT165-001@education.cloud.sap)
 
 ## Exercises
-<img width="900" alt="image" src="https://github.com/SAP-samples/teched2023-DT165/assets/73659453/35238010-fa1c-4d7d-a28a-07d86cfcc032">
+
+<img width="1092" alt="image" src="https://github.com/SAP-samples/teched2023-DT165/assets/73659453/77e64330-0d91-4f63-8f70-aa40a4aab728">
+
 
 - [Exercise 1 - Create Project & Maintain Project Timelines](exercises/ex1/)
 - [Exercise 2 - Manage and Execute Tasks](exercises/ex2/)
 - [Exercise 3 - Create Scopes and Select Business Processes](exercises/ex3/)
-- [Exercise 4 - Create Feature & Test Case](exercises/ex4/)
-- [Exercise 5 - Execute Test Case & Manage Defects](exercises/ex5/)
-- [Exercise 6 - Manage Documentation](exercises/ex6/)
-- [Exercise 7 - Use tracking and traceability Dashboards](exercises/ex7/)
+- [Exercise 4 - Conduct Fit-to-Standard Workshops](exercises/ex4/)
+- [Exercise 5 - Create Feature & Test Case](exercises/ex5/)
+- [Exercise 6 - Execute Test Case & Manage Defects](exercises/ex6/)
+- [Exercise 7 - Manage Documentation](exercises/ex7/)
+- [Exercise 8 - Use tracking and traceability Dashboards](exercises/ex8/)
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
