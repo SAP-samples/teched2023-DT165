@@ -69,6 +69,8 @@ Once the Defect has been corrected, the processor changes the Defect status to R
 
 You’ve learnt how to create manual Test cases, Execute them, Create and Manage Defects. 
 
+Continue to [Exercise 7](../EX7/EXCERCISE_7.md)
+
 
 
  
