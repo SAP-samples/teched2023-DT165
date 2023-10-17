@@ -5,7 +5,7 @@
 ![image](https://github.com/SAP-samples/teched2023-DT165/assets/148057376/cbd9e384-926b-4921-920a-de52740928db)
 
 1. Open Test Execution app 
-2. Find your Test Case and click "Execute" to start Test Run.
+2. Find your Test Case and click Execute" to start Test Run.
 
 
 <img width="1000" alt="image" src="https://github.com/SAP-samples/teched2023-DT165/assets/73659453/40a11abf-955f-4334-b972-32ea91428b19">
