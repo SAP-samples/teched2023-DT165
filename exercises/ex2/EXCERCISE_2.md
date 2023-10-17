@@ -30,8 +30,8 @@ In this part we want to assign users to project teams and roles.
 <img width="900" alt="image" src="https://github.com/SAP-samples/teched2023-DT165/assets/73659453/f920da23-fd5d-4189-a55e-c3a763e316f2">
 
 1. Click on Edit and assign your user as a **Configuration Expert**.
-2. Save the details.
-3. Use the Back button (<) to go back to the task.
+2.**Save** the details.
+3. Use the Back button **(<)** to go back to the task.
 
 <img width="900" alt="image" src="https://github.com/SAP-samples/teched2023-DT165/assets/73659453/a12f3a86-130b-4f68-844c-9e1a3bbe0e0a">
 
@@ -45,11 +45,11 @@ In SAP Cloud ALM you can mass maintain attributes in the list view.
 1. Select a couple of tasks (3-4 as shown in the screenshot)
 2. Click on **Mass Edit**
 3. Change the status to **Done**
-4. Save the details.
+4. **Save** the details.
 
 <img width="900" alt="image" src="https://github.com/SAP-samples/teched2023-DT165/assets/73659453/4cb47adc-3576-4a5d-a1bb-f9b38499b51f">
 
-5. Click on “Gantt Chart” button.
+5. Click on **Gantt Chart** button.
 
 <img width="900" alt="image" src="https://github.com/SAP-samples/teched2023-DT165/assets/73659453/1db1348a-c548-414e-a681-ff66b38548c1">
 
