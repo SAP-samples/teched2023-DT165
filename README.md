@@ -24,14 +24,14 @@ with your user DT165-XXX@education.cloud.sap (example DT165-001@education.cloud.
 <img width="1092" alt="image" src="https://github.com/SAP-samples/teched2023-DT165/assets/73659453/77e64330-0d91-4f63-8f70-aa40a4aab728">
 
 
-- [Exercise 1 - Create Project & Maintain Project Timelines](exercises/ex1/)
-- [Exercise 2 - Manage and Execute Tasks](exercises/ex2/)
-- [Exercise 3 - Create Scopes and Select Business Processes](exercises/ex3/)
-- [Exercise 4 - Conduct Fit-to-Standard Workshops](exercises/ex4/)
-- [Exercise 5 - Create Feature & Test Case](exercises/ex5/)
-- [Exercise 6 - Execute Test Case & Manage Defects](exercises/ex6/)
-- [Exercise 7 - Manage Documentation](exercises/ex7/)
-- [Exercise 8 - Use tracking and traceability Dashboards](exercises/ex8/)
+- [Exercise 1 - Create Project & Maintain Project Timelines](exercises/EX1/EXCERCISE_1.md)
+- [Exercise 2 - Manage and Execute Tasks](exercises/EX2/EXCERCISE_2.md)
+- [Exercise 3 - Create Scopes and Select Business Processes](exercises/EX3/EXCERCISE_3.md)
+- [Exercise 4 - Conduct Fit-to-Standard Workshops](exercises/EX4/EXCERCISE_4.md)
+- [Exercise 5 - Create Feature & Test Case](exercises/EX5/EXCERCISE_5.md)
+- [Exercise 6 - Execute Test Case & Manage Defects](exercises/EX6/EXCERCISE_6.md)
+- [Exercise 7 - Manage Documentation](exercises/EX7/EXCERCISE_7.md)
+- [Exercise 8 - Use tracking and traceability Dashboards](exercises/EX8/EXCERCISE_8.md)
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
