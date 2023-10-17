@@ -78,37 +78,28 @@ It is possible to view the newly assigned requirements from the notification lis
 
 
 1. Open **Requirement** 
-2. Create User story:  
-     a. Title: Workflow and UI adaptions for external approval step
-   
-     b. Select Timebox for this user story Sprint 1
-   
-     c. Assign yourself as Responsible
-   
-     d. Select story points = 20 
-4. Save
+2. Create a User story:
+   - Title: **Workflow and UI adaptions for external approval step**
+   - Select Timebox for this user story **Sprint 1**
+   - Assign yourself as Responsible
+   - Select **story points = 20** 
+4. **Save**
 
 
 ![image](https://github.com/SAP-samples/teched2023-DT165/assets/148057376/bc52e198-a2cb-411b-8914-33a48a568856)
 
 
 4. (optional) Create 2. User story:
-   
-    a.  Title: **API for external approval**
-   
-    b. Select **Timebox** for this user story **Sprint 2**
-   
-    c. Assign yourself as **Responsible**
-   
-    d. Select **story points = 13**
-
+   - Title: **API for external approval**
+   - Select **Timebox** for this user story **Sprint 2**
+   - Assign yourself as **Responsible**
+   - Select **story points = 13**
 
    ![image](https://github.com/SAP-samples/teched2023-DT165/assets/148057376/34c8b6e1-3be5-4b44-afec-6a2451d84875)
 
-
    ## Summary 
 
-You've now defined the complete Project Scope. You know the Solution Processes and the Requirements and created user stories to manage requirements. 
+You've now defined the Project Scope. You selected the Solution Processes in scope, documented a Requirement and created user stories to realize the requirements. 
 
 
 
