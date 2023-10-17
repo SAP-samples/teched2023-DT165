@@ -52,3 +52,5 @@ For this exercise, include the below solution processes:
 **- Asset Accounting (J62)**
 
 4. Click on **End scoping**.
+
+Continue to [Exercise 4](../EX4/EXCERCISE_4.md)
