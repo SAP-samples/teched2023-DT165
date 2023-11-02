@@ -1,17 +1,17 @@
 # Exercise 5: Create Feature & Test Case 
 In this exercise, we will create a feature which is used to the deploy Transport Requests through the landscape.  
 ## 5.1 Create Feature
-![](1.png)
+![](../1.png)
 
 In the Requirement you created. Create a feature by clicking on Create -> Feature
 
-![](2.png)
+![](../2.png)
 
 1. Provide a meaningful **title** to the Feature.
 2. Enter a meaningful **description**. 
 3. **Save**.
 
-![](3.png)
+![](../3.png)
 
 **This functionality is show in detail in another Hands-on session. For time purposes the deployment will not be part of this hands-on session.**
 
@@ -26,7 +26,7 @@ In the Requirement you created. Create a feature by clicking on Create -> Featur
 7. Select Solution Process Flow Diagram: **J62 – 00 – Asset Procurement from Purchase Order** 
 8. Click "Save".
 
-![](4.png)
+![](../4.png)
 
 Select Relevant Solution Activities. 
 1. Add activities to Test Case Scope. 
@@ -35,7 +35,7 @@ Select Relevant Solution Activities.
 Provide Solution Action Instructions and mark Test Case as "Prepared." 
 
 
-![](5.png)
+![](../5.png)
 
 ## 5.3 Assign Test Case to Requirement 
 
@@ -44,10 +44,10 @@ Provide Solution Action Instructions and mark Test Case as "Prepared."
 3. Assign test case you just created. 
 
 
-![](6.png)
+![](../6.png)
 
 
-![](7.png)
+![](../7.png)
 
 Continue to [Exercise 6](../EX6/EXCERCISE_6.md)
 
