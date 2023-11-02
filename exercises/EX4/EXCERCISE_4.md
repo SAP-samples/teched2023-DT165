@@ -3,14 +3,14 @@
 The Fit-to-standard workshops are used to explore the functionality, show how the solution can meet the business' requirements, and enable business process experts to execute processes. 
 
 
-![image](https://github.com/SAP-samples/teched2023-DT165/assets/148057376/b3b11573-3422-4d6d-ad90-a1ff6628d2d5)
+![](1.png)
 
 
 1. Go to **project overview page**
 2. In the tile **solution processes per scope**, click on the process number of your scope (you will navigate to the process app)
 
 
-![image](https://github.com/SAP-samples/teched2023-DT165/assets/148057376/c404a53a-bf3e-4bf7-929d-a0fdcbe24dd3)
+![](2.png)
 
 
 3. Select the process **Asset Accounting (J62)** and open by clicking on the process 
@@ -22,7 +22,7 @@ The Fit-to-standard workshops are used to explore the functionality, show how th
 
 
 
-![image](https://github.com/SAP-samples/teched2023-DT165/assets/148057376/0a3417da-1ea1-44d3-b72e-9a1657b16b89)
+![](3.png)
 
 
 
@@ -42,11 +42,11 @@ The Fit-to-standard workshops are used to explore the functionality, show how th
 3. Click **Save and Close** 
 
 
-![image](https://github.com/SAP-samples/teched2023-DT165/assets/148057376/40021011-5778-498c-a10b-b49eb84dfa95)
+![](4.png)
 
-![image](https://github.com/SAP-samples/teched2023-DT165/assets/148057376/f0af42cb-2ca3-4771-8a0e-d068fbf9960d)
+![](5.png)
 
-![image](https://github.com/SAP-samples/teched2023-DT165/assets/148057376/ad90a739-a53a-4103-bf5c-b69684f59061)
+![](6.png)
 
 
 1. Change status of the Diagram to **Realization**
@@ -64,7 +64,7 @@ The Fit-to-standard workshops are used to explore the functionality, show how th
 5. Select the Requirement status **In Realization**
 
 
-![image](https://github.com/SAP-samples/teched2023-DT165/assets/148057376/e8050c06-e081-497e-b4ef-e4e526b3ab94)
+![](7.png)
 
 
 It is possible to view the newly assigned requirements from the notification list. 
@@ -74,7 +74,7 @@ It is possible to view the newly assigned requirements from the notification lis
 ## Excercise 4.3 Create User Stories 
 
 
-![image](https://github.com/SAP-samples/teched2023-DT165/assets/148057376/0cbe50b0-13db-48e3-9832-e4e2f1835657)
+![](8.png)
 
 
 1. Open **Requirement** 
@@ -86,7 +86,7 @@ It is possible to view the newly assigned requirements from the notification lis
 4. **Save**
 
 
-![image](https://github.com/SAP-samples/teched2023-DT165/assets/148057376/bc52e198-a2cb-411b-8914-33a48a568856)
+![](9.png)
 
 
 4. (optional) Create 2. User story:
@@ -95,7 +95,7 @@ It is possible to view the newly assigned requirements from the notification lis
    - Assign yourself as **Responsible**
    - Select **story points = 13**
 
-   ![image](https://github.com/SAP-samples/teched2023-DT165/assets/148057376/34c8b6e1-3be5-4b44-afec-6a2451d84875)
+   ![](10.png)
 
    ## Summary 
 
