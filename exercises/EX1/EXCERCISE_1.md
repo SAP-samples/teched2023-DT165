@@ -12,7 +12,7 @@ Click on Question Mark (Open Help). Help topics open by default.
 
 1. Click **Projects and Setup**
 
-![](02.png)
+![](../02.png)
 
 
 1. Click **Create** button.
@@ -21,13 +21,13 @@ Click on Question Mark (Open Help). Help topics open by default.
 4. Set Access Level as **Public**.
 5. Click **Save**.
 
-![](03_01.png)
+![](../03_01.png)
 
 ## Exercise 1.2 Define Timeboxes (Project Phases & Sprints)
 
 In this step, you define the different Timelines of Phases, Sprints or Milestones.
 
-![](03.png)
+![](../03.png)
 
 1. Click on the **Timebox** Tab
 2. Click on **Edit**
@@ -35,7 +35,7 @@ In this step, you define the different Timelines of Phases, Sprints or Milestone
 4. Start creating some sprints for your Project (e.g. bi-weekly sprints in REALIZE phase).
 5. Make sure you save the Project.
 
-![](04.png)
+![](../04.png)
 
 ## Summary
 
