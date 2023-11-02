@@ -5,7 +5,7 @@ The purpose of this exercise is to manage and execute tasks of the project.
 ## Exercise 2.1 Project Overview
 The overview page provides a high-level overview of progress in different areas. It acts like a health check monitor for projects, and at the same time, it provides connectivity to other applications for a faster drill-down. Each card on the overview page represents a specific topic and displays set of relevant KPIs.
 
-![](01.png)
+![](../01.png)
 
 1. Navigate to the **Project Overview page**
 2. Select the Project you just created in the previous exercise
