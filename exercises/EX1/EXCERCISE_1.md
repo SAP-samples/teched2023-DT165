@@ -3,7 +3,7 @@ In this exercise, we will create a Project and maintain the project timeline (Ti
 We will begin many of the exercises from the Fiori launchpad. When you are within any application, you can click on the SAP Logo to return to Fiori Launchpad
 An integrated help assistant is also available in SAP Cloud ALM. 
 
-<img width="800" alt="image" src="https://github.com/SAP-samples/teched2023-DT165/assets/73659453/a5439e68-6fe9-4da1-b907-254ca414f193">
+![](ex1_1.png)
 
 
 Click on Question Mark (Open Help). Help topics open by default.
