@@ -11,11 +11,11 @@ The overview page provides a high-level overview of progress in different areas.
 2. Select the Project you just created in the previous exercise
 3. You can view all the upcoming tasks by clicking on the card title **Upcoming Tasks**. This takes you to Open Tasks page.
    
-![](02.png)
+![](../02.png)
 
 1. Click on the task that needs to be performed. For example: **Assign Team Members**.
    
-![](03.png)
+![](../03.png)
 
 1. In this screen, you can assign a **Responsible person**, or change the planned completion date, status, and priority. For example, change the status to **In Progress**.
 2. All the content, such as descriptions, available accelerators, etc., is also available here.
@@ -27,37 +27,37 @@ The overview page provides a high-level overview of progress in different areas.
 In this part we want to assign users to project teams and roles.
 **CAUTION: This is not a productive SAP Cloud ALM environment. We are here in a shared demo environment, and personal information can be seen by others. Please do not enter any personal data, e.g., E-Mail addresses. Thank You!**
 
-![](04.png)
+![](../04.png)
 
 1. Click on Edit and assign your user as a **Configuration Expert**.
 2.**Save** the details.
 3. Use the Back button **(<)** to go back to the task.
 
-![](05.png)
+![](../05.png)
 
 1. Set the task status to **Done** to indicate that the team members are assigned.
    
 ## Exercise 2.3 Mass Edit of tasks
 In SAP Cloud ALM you can mass maintain attributes in the list view.
 
-![](06.png)
+![](../06.png)
 
 1. Select a couple of tasks (3-4 as shown in the screenshot)
 2. Click on **Mass Edit**
 3. Change the status to **Done**
 4. **Save** the details.
 
-![](07.png)
+![](../07.png)
 
 5. Click on **Gantt Chart** button.
 
-![](08.png)
+![](../08.png)
 
 ## Exercise 2.4 Card View
 1. Go to **Cards View**.
 2. Select a task and drag & drop the tasks in the **In Progress** column.
 
-![](09.png)
+![](../09.png)
    
 ## Summary
 
