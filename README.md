@@ -12,7 +12,7 @@ In this session you experience how SAP Cloud ALM can help you during your implem
 
 You will start with setting up the project, timelines and onboarding the team in SAP Cloud ALM. You will also model your process and scope the processes to be implemented as part of the project. Then you will be creating requirements as part of the fit-to-standard workshops. As a next step, a manual test case is created and tested before releasing the transports with the help of a feature in SAP Cloud ALM.
 During this project journey guided by SAP Cloud ALM, you can track and trace the status of the project and its entities in the project dashboard and with the help of the Analytics apps.
-<img width="1080" alt="image" src="https://github.com/SAP-samples/teched2023-DT165/assets/73659453/703eeb56-c109-429a-9d90-4921d6985904">
+![](01.png)
 
 ## Access Details
 Access SAP Cloud ALM demo tenant by using the below link and credentials:  
@@ -21,7 +21,7 @@ with your user DT165-XXX@education.cloud.sap (example DT165-001@education.cloud.
 
 ## Exercises
 
-<img width="1092" alt="image" src="https://github.com/SAP-samples/teched2023-DT165/assets/73659453/77e64330-0d91-4f63-8f70-aa40a4aab728">
+![](02.png)
 
 
 - [Exercise 1 - Create Project & Maintain Project Timelines](exercises/EX1/EXCERCISE_1.md)
