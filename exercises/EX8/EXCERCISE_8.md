@@ -7,7 +7,7 @@ SAP Cloud ALM for Implementation offers multiple options to cover diverse monito
 The overview page provides a high-level overview of progress in different areas. It acts like a health check monitor for project and at the same time it provides connectivity to other applications for a faster drill down. Each card on overview page represent a specific topic and displays set of relevant information.
 
 
-![](../01.png)
+![](01.png)
 
 
 1. Ensure you have selected your project and option scope. 
@@ -22,14 +22,14 @@ Analytics Overview is a container for detailed analytical standalone pages which
 
 ## Excercise 8.3: Project Progress Reporting 
 
-![](../02.png)
+![](02.png)
 
 1. Click on **Analytics**. 
 2. Open any of the dashboards eg: **Project Progress Reporting**. 
 
 Here you can review the overall progress of your project in terms of the task completion percentage. Progress of task completion per phase gives an overview of phase progress. 
 
-![](../03.png)
+![](03.png)
 
 
 1. Ensure that the project and scope details are correct. 
@@ -47,18 +47,18 @@ The report outlines total planned tasks, completed tasks and remaining tasks as 
 With the **Solution Process Traceability** detailed analytical page, you can analyze the readiness of your scoped solution processes based on the progress of related Requirements and Test execution. You can find answers to your questions about the readiness of related entities. 
 
 
-![](../04.png)
+![](04.png)
 
 1. Ensure you are still in Analytics page. 
 2. Click on **Solution Process Traceability**.
 
 
-![](../05.png)
+![](05.png)
 
 Here you see all the solution processes scoped as part of your project and check the progress of the related requirements, user stories, tasks, documents, test preparation and execution statuses. 
 
 
-![](../06.png)
+![](06.png)
 
 1. Click on the any of the entities, eg **test execution**. 
 2. You will see the associated information; you see the number of test cases still in status **Initial** and **Passed** in this example. 
@@ -68,13 +68,13 @@ Here you see all the solution processes scoped as part of your project and check
 
 You can use the Requirement Traceability app to understand readiness of requirements based on related user stories and project tasks. 
 
-![](../07.png)
+![](07.png)
 
 Let us consider two use cases:  
 
 **Use case 1: Which requirements are ready for test execution?** 
 
-![](../08.png)
+![](08.png)
 
 1. Set filters to the below selection criteria:
  - Requirement Status is **In Realization**
