@@ -49,18 +49,18 @@ The defect is picked up and assigned to a team, role, or processor. In the Addit
 The processor is notified about their defect assignment, then analyses and corrects the Defect.               
 Once the Defect has been corrected, the processor changes the Defect status to Retest required and assigns it to the original reporter. 
 
-![](../7.png)
+![](7.png)
 
 1. Once the Defect is corrected, change the status to **retest required** 
 2. **Save and Close**
 
-![](../8.png)
+![](8.png)
 
 1. Once the retest is successful, the Defect status is set to **close**.
 2. Hit **Save**.
 3. Open Test execution again.
 
-![](../9.png)
+![](9.png)
 
 1. Change the status of the step to Pass. 
 2. Once all the steps are tested, **Save and Finish the test run.** 
