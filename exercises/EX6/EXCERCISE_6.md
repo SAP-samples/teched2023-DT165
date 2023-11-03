@@ -2,13 +2,13 @@
 
 ## Exercise 6.1 Execute Test Cases 
 
-![](../1.png)
+![](1.png)
 
 1. Open Test **Execution app**. 
 2. Find your Test Case and click **Execute** to start Test Run.
 
 
-![](../2.png)
+![](2.png)
 
 
 1. Set Solution Action **1.1** to **Pass**.
@@ -17,7 +17,7 @@
 4. Enter **comments**. 
 5. Click on **Create Defect**.
 
-![](../3.png)
+![](3.png)
 
 1. Provide a **name** for the Defect.
 2. Enter **description**.
@@ -29,20 +29,20 @@ In the Defects app, you can create and manage defects for deficiencies that were
 
 If a test run fails due to an application issue or if a deficiency is discovered during regular application usage, you can use the Defects app to make sure that the defect is addressed and processed. 
 
-![](../4.png)
+![](4.png)
 
 1. Go back to the **Test execution app**. 
 2. Ensure you have chosen the right Test Case execution. 
 3. Click on the defect number to open the created Defect. 
 4. Open the Defect by clicking on **Defect Overview**.
 
-![](../5.png)
+![](5.png)
 
 1. Click on the newly created Defect.   
 2. Click on **Edit**.
 3. Assign Defect to your own user.
 
-![](../6.png)
+![](6.png)
 
 The defect is picked up and assigned to a team, role, or processor. In the Additional Information section. 
 
