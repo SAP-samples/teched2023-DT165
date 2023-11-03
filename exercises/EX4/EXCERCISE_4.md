@@ -3,14 +3,14 @@
 The Fit-to-standard workshops are used to explore the functionality, show how the solution can meet the business' requirements, and enable business process experts to execute processes. 
 
 
-![](../1.png)
+![](1.png)
 
 
 1. Go to **project overview page**
 2. In the tile **solution processes per scope**, click on the process number of your scope (you will navigate to the process app)
 
 
-![](../2.png)
+![](2.png)
 
 
 3. Select the process **Asset Accounting (J62)** and open by clicking on the process 
@@ -22,7 +22,7 @@ The Fit-to-standard workshops are used to explore the functionality, show how th
 
 
 
-![](../3.png)
+![](3.png)
 
 
 
@@ -42,11 +42,11 @@ The Fit-to-standard workshops are used to explore the functionality, show how th
 3. Click **Save and Close** 
 
 
-![](../4.png)
+![](4.png)
 
-![](../5.png)
+![](5.png)
 
-![](../6.png)
+![](6.png)
 
 
 1. Change status of the Diagram to **Realization**
@@ -64,7 +64,7 @@ The Fit-to-standard workshops are used to explore the functionality, show how th
 5. Select the Requirement status **In Realization**
 
 
-![](../7.png)
+![](7.png)
 
 
 It is possible to view the newly assigned requirements from the notification list. 
@@ -74,7 +74,7 @@ It is possible to view the newly assigned requirements from the notification lis
 ## Excercise 4.3 Create User Stories 
 
 
-![](../8.png)
+![](8.png)
 
 
 1. Open **Requirement** 
@@ -86,7 +86,7 @@ It is possible to view the newly assigned requirements from the notification lis
 4. **Save**
 
 
-![](../9.png)
+![](9.png)
 
 
 4. (optional) Create 2. User story:
@@ -95,7 +95,7 @@ It is possible to view the newly assigned requirements from the notification lis
    - Assign yourself as **Responsible**
    - Select **story points = 13**
 
-   ![](../10.png)
+   ![](10.png)
 
    ## Summary 
 
